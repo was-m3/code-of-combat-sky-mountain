@@ -1,0 +1,1 @@
+hero.moveUp(2);

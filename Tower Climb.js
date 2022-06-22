@@ -1,0 +1,9 @@
+hero.moveUp();
+hero.moveUp();
+hero.moveLeft();
+hero.use("lever");
+hero.moveRight(3)
+hero.use("door");
+hero.moveUp(2);
+hero.moveLeft(4);
+hero.moveUp();
